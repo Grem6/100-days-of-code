@@ -15,7 +15,7 @@
 
 ---
 
-<p align="center"> 100 days, 100 projects till I master the craft.
+<p align="center"> 100 days, 100 Projects.
     <br> 
 </p>
 
@@ -27,7 +27,7 @@
 
 ## 🧐 About <a name = "about"></a>
 
-This repo marks the begining of me documenting my developer journey to become a better developer. I'll make one project a day for a 100 days. Most of the projects will be in python and some of them will be re-implemented in javascript.
+This repo marks the begining of me documenting my developer journey to become a better developer. I'll make one project a day for a 100 days. Most of the projects will be in python ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) and some of them will be re-implemented in javascript ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) 
 
 
 ## 📚 Resources <a name = "resources"></a>
