@@ -32,4 +32,4 @@ This repo marks the begining of me documenting my developer journey to become a 
 
 ## 📚 Resources <a name = "resources"></a>
 
-- Will update here
+- Will update here soon
