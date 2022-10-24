@@ -3,7 +3,7 @@
  <img height=200px src="https://media.proglib.io/posts/2020/05/29/80086d134b4e439861d47de170671e62.jpg" alt="Project logo"></a>
 </p>
 
-<h3 align="center">100 days of code</h3>
+<h1 align="center">100 days of code</h1>
 
 <div align="center">
 
