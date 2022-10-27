@@ -1,3 +1,7 @@
+
+## 25/10/2022
+
+
 print('Welcome to tip calculator')
 
 bill = float(input("What was the total bill amount?\n$"))
@@ -7,3 +11,4 @@ people = int(input('How many people to split the bill'))
 
 Total = f"Each person have to pay ${(bill/people)*tip/100 + bill}"
 print(Total)
+
