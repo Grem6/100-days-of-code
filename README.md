@@ -30,6 +30,12 @@
 This repo marks the begining of me documenting my developer journey to become a better developer. I'll make one project a day for a 100 days. Most of the projects will be in python ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) and some of them will be re-implemented in javascript ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) 
 
 
+## 💻 Projects <a name ="projects"></a>
+- [Tip Calculator](https://github.com/Grem6/100-days-of-code/tree/main/Day-1%20%5Bpy%5D)
+- [Death Calculator](https://github.com/Grem6/100-days-of-code/tree/main/Day-2%20%5Bpy%5D)
+- [Rock Paper Scissors](https://github.com/Grem6/100-days-of-code/tree/main/Day-3%20%5Bpy%5D)
+- [Password Generator](https://github.com/Grem6/100-days-of-code/tree/main/Day-4%20%5Bpy%5D)
+
 ## 📚 Resources <a name = "resources"></a>
 
 - Will update here soon
