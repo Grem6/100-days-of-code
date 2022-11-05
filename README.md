@@ -31,10 +31,10 @@ This repo marks the begining of me documenting my developer journey to become a 
 
 
 ## 💻 Projects <a name ="projects"></a>
-- [Tip Calculator](https://github.com/Grem6/100-days-of-code/tree/main/Day-1%20%5Bpy%5D)
-- [Death Calculator](https://github.com/Grem6/100-days-of-code/tree/main/Day-2%20%5Bpy%5D)
-- [Rock Paper Scissors](https://github.com/Grem6/100-days-of-code/tree/main/Day-3%20%5Bpy%5D)
-- [Password Generator](https://github.com/Grem6/100-days-of-code/tree/main/Day-4%20%5Bpy%5D)
+- [Tip Calculator](https://github.com/Grem6/100-days-of-code/tree/main/Day-001%20%5Bpy%5D)
+- [Death Calculator](https://github.com/Grem6/100-days-of-code/tree/main/Day-002%20%5Bpy%5D)
+- [Rock Paper Scissors](https://github.com/Grem6/100-days-of-code/tree/main/Day-003%20%5Bpy%5D)
+- [Password Generator](https://github.com/Grem6/100-days-of-code/tree/main/Day-004%20%5Bpy%5D)
 
 ## 📚 Resources <a name = "resources"></a>
 
