@@ -36,6 +36,7 @@ This repo marks the begining of me documenting my developer journey to become a 
 - [Rock Paper Scissors](https://github.com/Grem6/100-days-of-code/tree/main/Day-003%20%5Bpy%5D)
 - [Password Generator](https://github.com/Grem6/100-days-of-code/tree/main/Day-004%20%5Bpy%5D)
 - [Caesar Cipher](https://github.com/Grem6/100-days-of-code/tree/main/Day-005%20%5Bpy%5D)
+- [Hangman](https://github.com/Grem6/100-days-of-code/tree/main/Day-006%20%5Bpy%5D)
 
 ## 📚 Resources <a name = "resources"></a>
 
