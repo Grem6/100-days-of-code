@@ -1,11 +1,27 @@
 <p align="center">
   <a href="" rel="noopener">
- <img height=200px src="https://media.proglib.io/posts/2020/05/29/80086d134b4e439861d47de170671e62.jpg" alt="Project logo"></a>
+ <img height=500px src="https://media.proglib.io/posts/2020/05/29/80086d134b4e439861d47de170671e62.jpg" alt="Project logo"></a>
 </p>
 
-<h1 align="center">100 days of code</h1>
 
-<div align="center">
+<br> 
+
+<div align = "center">
+<a href="https://www.fontspace.com/category/space"><img src="https://see.fontimg.com/api/renderfont4/X3A49/eyJyIjoiZnMiLCJoIjo0NCwidyI6MTI1MCwiZnMiOjM1LCJmZ2MiOiIjMDAwMDAwIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/MTAwIGRheXMgb2YgY29kZQ/vudotronic.png" alt="Space fonts"></a>
+</div>
+
+<br> 
+<div align = "center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Aldrich&duration=100&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=500&lines=100+days%2C+100+projects)](https://git.io/typing-svg)
+ 
+</div>
+
+<br> 
+
+
+<div align = "center">
+
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 [![GitHub Issues](https://img.shields.io/github/issues/Grem6/100-days-of-code/issues.svg)](https://github.com/Grem6/100-days-of-code/issues)
@@ -15,9 +31,7 @@
 
 
 
-<p align="center"> 100 days, 100 Projects.
-    <br> 
-</p>
+
 
 ## 📝 Table of Contents
 
