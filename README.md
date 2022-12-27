@@ -7,13 +7,13 @@
 <br> 
 
 <div align = "center">
-<a href="https://www.fontspace.com/category/space"><img src="https://see.fontimg.com/api/renderfont4/X3A49/eyJyIjoiZnMiLCJoIjo0NCwidyI6MTI1MCwiZnMiOjM1LCJmZ2MiOiIjMDAwMDAwIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/MTAwIGRheXMgb2YgY29kZQ/vudotronic.png" alt="Space fonts"></a>
+<a href="https://github.com/Grem6"><img src="https://see.fontimg.com/api/renderfont4/X3A49/eyJyIjoiZnMiLCJoIjo0NCwidyI6MTI1MCwiZnMiOjM1LCJmZ2MiOiIjMDAwMDAwIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/MTAwIGRheXMgb2YgY29kZQ/vudotronic.png" alt="Space fonts"></a>
 </div>
 
 <br> 
 <div align = "center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Aldrich&duration=100&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=500&lines=100+days%2C+100+projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Aldrich&duration=100&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=500&lines=100+days%2C+100+projects)](https://github.com/Grem6)
  
 </div>
 
@@ -41,7 +41,7 @@
 
 ## 🧐 About <a name = "about"></a>
 
-This repo marks the begining of me documenting my developer journey to become a better developer. I'll make one project a day for a 100 days. Most of the projects will be in python ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) and some of them will be re-implemented in javascript ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) 
+This repo servers as a self documentation for my developer journey.I'll be doing a 100 projects, small or big until I'm sure of my skills. Most of the projects will be in python ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) and some of them will be re-implemented in javascript ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) If you find this repo: Check out the [resources section](#resources) down below. You'll find the link to all the resources I use or find useful. Happy coding!
 
 
 ## 💻 Projects <a name ="projects"></a>
