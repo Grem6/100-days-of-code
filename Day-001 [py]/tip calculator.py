@@ -2,6 +2,26 @@
 ## 25/10/2022
 
 
+print("""
+      
+      
+
+                                                                    
+888888888888  88                                                    
+     88       ""                                                    
+     88                                                             
+     88       88  8b,dPPYba,   8b,dPPYba,    ,adPPYba,  8b,dPPYba,  
+     88       88  88P'    "8a  88P'    "8a  a8P_____88  88P'   "Y8  
+     88       88  88       d8  88       d8  8PP"""""""  88          
+     88       88  88b,   ,a8"  88b,   ,a8"  "8b,   ,aa  88          
+     88       88  88`YbbdP"'   88`YbbdP"'    `"Ybbd8"'  88          
+                  88           88                                   
+                  88           88        
+      
+      
+      """)
+
+
 print('Welcome to tip calculator')
 
 bill = float(input("What was the total bill amount?\n$"))
