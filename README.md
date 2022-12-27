@@ -13,7 +13,7 @@
 <br> 
 <div align = "center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Aldrich&duration=100&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=500&lines=100+days%2C+100+projects)](https://github.com/Grem6)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Aldrich&duration=2000&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=500&lines=100+days%2C+100+projects)](https://github.com/Grem6)
  
 </div>
 
