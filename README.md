@@ -41,7 +41,7 @@
 
 ## 🧐 About <a name = "about"></a>
 
-This repo servers as a self documentation for my developer journey.I'll be doing a 100 projects, small or big until I'm sure of my skills. Most of the projects will be in python ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) and some of them will be re-implemented in javascript ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) If you find this repo: Check out the [resources section](#resources) down below. You'll find the link to all the resources I use or find useful. Happy coding!
+This repo serves as a self documentation for my developer journey.I'll be doing a 100 projects, small or big until I'm sure of my skills. Most of the projects will be in python ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) and some of them will be re-implemented in javascript ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) If you find this repo: Check out the [resources section](#resources) down below. You'll find the link to all the resources I use or find useful. Happy coding!
 
 
 ## 💻 Projects <a name ="projects"></a>
